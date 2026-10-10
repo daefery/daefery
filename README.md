@@ -21,19 +21,19 @@ frontend architecture of **[edbot.ai](https://edbot.ai)**, which delivered **32M
 to **100K+ peak monthly users** across 10+ countries. Twelve years in software, eight on a
 fully remote team.
 
-### 🧠 Featured: [mnem](https://github.com/daefery/mnem)
+### 🧠 Featured: [ravnori](https://github.com/daefery/ravnori)
 
-**Local-first memory for coding agents.** mnem keeps one complete record of every
+**Local-first memory for coding agents.** ravnori keeps one complete record of every
 Claude Code, Codex and pi session, read from the transcripts they already write, and
 gives your agents back what they learned. Every memory cites the session it came from.
 
 ```sh
-curl -fsSL https://github.com/daefery/mnem/releases/latest/download/install.sh | sh
+curl -fsSL https://github.com/daefery/ravnori/releases/latest/download/install.sh | sh
 ```
 
 Rust · SQLite · MCP · Linux, WSL and macOS · AGPL-3.0 ·
-[Latest release](https://github.com/daefery/mnem/releases/latest) ·
-[Docs](https://daefery.github.io/mnem/)
+[Latest release](https://github.com/daefery/ravnori/releases/latest) ·
+[Docs](https://daefery.github.io/ravnori/)
 
 ### 📝 New: [Lariksa](https://github.com/daefery/lariksa)
 
