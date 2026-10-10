@@ -35,6 +35,20 @@ Rust · SQLite · MCP · Linux, WSL and macOS · AGPL-3.0 ·
 [Latest release](https://github.com/daefery/mnem/releases/latest) ·
 [Docs](https://daefery.github.io/mnem/)
 
+### 📝 New: [Lariksa](https://github.com/daefery/lariksa)
+
+**Meeting notes that never leave your laptop.** Record any Meet, Zoom or Teams call on
+Windows. When you hang up, Lariksa writes the transcript and the minutes with Whisper and a
+local LLM. Every action item and decision cites the transcript line it came from, so you
+can jump straight to that moment. No bot in the call, no subscription, nothing uploaded.
+Works in Indonesian and English.
+
+[**Download for Windows**](https://github.com/daefery/lariksa/releases/latest/download/Lariksa-portable.zip)
+(4 MB, portable, no installer)
+
+Rust · Tauri · whisper.cpp · llama.cpp · SQLite · Windows 10 and 11 · Apache-2.0 ·
+[Latest release](https://github.com/daefery/lariksa/releases/latest)
+
 ### 🚀 Apps I built and shipped
 
 | Product | What it is | Built with |
@@ -48,6 +62,6 @@ Rust · SQLite · MCP · Linux, WSL and macOS · AGPL-3.0 ·
 
 `TypeScript` `Rust` `Python` `React` `Next.js` `Node.js` `Django`
 `React Native` `SwiftUI` `Kotlin` `PostgreSQL` `SQLite` `Supabase`
-`AWS Bedrock` `MCP` `Docker` `CI/CD`
+`Tauri` `AWS Bedrock` `MCP` `Docker` `CI/CD`
 
 <p align="center"><i>Open to remote roles in application and AI systems design.</i></p>
