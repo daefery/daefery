@@ -49,6 +49,12 @@ Works in Indonesian and English.
 Rust · Tauri · whisper.cpp · llama.cpp · SQLite · Windows 10 and 11 · Apache-2.0 ·
 [Latest release](https://github.com/daefery/lariksa/releases/latest)
 
+### 🤝 Open source contributions
+
+| Project | Change | Status |
+|---|---|---|
+| **[Automattic/jetpack](https://github.com/Automattic/jetpack)** | [#53543](https://github.com/Automattic/jetpack/pull/53543): use `apply_shortcodes()` instead of `do_shortcode()` in the Jetpack plugin (PHP) | Merged, Oct 2026 |
+
 ### 🚀 Apps I built and shipped
 
 | Product | What it is | Built with |
@@ -60,7 +66,7 @@ Rust · Tauri · whisper.cpp · llama.cpp · SQLite · Windows 10 and 11 · Apac
 
 ### 🛠️ Stack
 
-`TypeScript` `Rust` `Python` `React` `Next.js` `Node.js` `Django`
+`TypeScript` `Rust` `Python` `PHP` `React` `Next.js` `Node.js` `Django`
 `React Native` `SwiftUI` `Kotlin` `PostgreSQL` `SQLite` `Supabase`
 `Tauri` `AWS Bedrock` `MCP` `Docker` `CI/CD`
 
