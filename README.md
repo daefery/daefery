@@ -53,6 +53,7 @@ Rust · Tauri · whisper.cpp · llama.cpp · SQLite · Windows 10 and 11 · Apac
 
 | Project | Change | Status |
 |---|---|---|
+| **[Automattic/jetpack](https://github.com/Automattic/jetpack)** | [#53574](https://github.com/Automattic/jetpack/pull/53574): fix the Pinterest share button on AMP pages so it includes the post image, with tests (PHP) | Merged, Oct 2026 |
 | **[Automattic/jetpack](https://github.com/Automattic/jetpack)** | [#53543](https://github.com/Automattic/jetpack/pull/53543): use `apply_shortcodes()` instead of `do_shortcode()` in the Jetpack plugin (PHP) | Merged, Oct 2026 |
 
 ### 🚀 Apps I built and shipped
